@@ -2,7 +2,7 @@
 Spring Repository For CRUD operation
 This document provides an overview of a simple CRUD (Create, Read, Update, Delete) application built using Spring Boot. The project showcases how to implement basic data management operations with RESTful APIs in a Spring-based application.
 
-Overview
+# OVERVIEW :
 
 CRUD applications are fundamental in software development and are used to manage persistent data. This project demonstrates how to:
 
@@ -16,7 +16,7 @@ Delete: Remove entries from the database.
 
 The application is built using Spring Boot, which simplifies the development process by providing pre-configured settings and dependencies.
 
-Technologies Used
+# TECHNOLOGIES USED :
 
 Spring Boot: A Java-based framework for building standalone and production-grade applications.
 
@@ -26,7 +26,7 @@ PostgreSQL Database: An in-memory database for development and testing purposes.
 
 Maven: A build automation tool used for managing project dependencies.
 
-Application Structure
+# APPLICATION USED :
 
 The project is divided into the following layers:
 
@@ -38,7 +38,7 @@ Repository Layer: Interacts with the database and performs CRUD operations. It u
 
 Entity Layer: Defines the data structure of the application entities and maps them to database tables.
 
-Features
+# FEATURES :
 
 RESTful APIs: Provides endpoints to perform create, read, update, and delete operations.
 
